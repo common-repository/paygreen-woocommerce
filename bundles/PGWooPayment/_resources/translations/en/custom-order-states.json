@@ -1,0 +1,10 @@
+{
+  "woocommerce": {
+    "custom_order_states": {
+      "test": "Validated test",
+      "verify": "Suspicious payment",
+      "auth": "Payment authorization granted",
+      "wait": "Payment file validated"
+    }
+  }
+}

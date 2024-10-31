@@ -1,0 +1,10 @@
+{
+  "woocommerce": {
+    "custom_order_states": {
+      "test": "Test validé",
+      "verify": "Paiement suspect",
+      "auth": "Autorisation de paiement accordée",
+      "wait": "Dossier de paiement validé"
+    }
+  }
+}

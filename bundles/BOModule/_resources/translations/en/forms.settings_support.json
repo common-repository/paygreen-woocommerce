@@ -1,0 +1,16 @@
+{
+  "forms": {
+    "settings_support": {
+      "fields": {
+        "detailed_logs": {
+          "label": "Activate detailed logs",
+          "help": "The detailed logs generate a significant occupation of the disk. Please activate detailed logs only if you have a problem with your module and on request from our support."
+        },
+        "behavior_iss": {
+          "label": "Activate distant access for PayGreen support",
+          "help": "If this option is activated, PayGreen support can analyze and fix your module remotely."
+        }
+      }
+    }
+  }   
+}

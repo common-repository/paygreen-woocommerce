@@ -1,0 +1,10 @@
+{
+  "woocommerce": {
+    "config": {
+      "validate_state": {
+        "label": "Final states of orders",
+        "help": "Select the state in which your orders will be placed after validation of payment."
+      }
+    }
+  }
+}

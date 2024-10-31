@@ -1,0 +1,9 @@
+{
+  "translations": {
+    "message_payment_refused": {
+      "field": {
+        "help": "Your payment has been refused by your bank."
+      }
+    }
+  }
+}

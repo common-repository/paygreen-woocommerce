@@ -1,0 +1,12 @@
+{
+  "pages": {
+    "translations": {
+      "name": "Textes et traductions",
+      "title": "Traduction des éléments dynamiques du frontoffice",
+      "frontoffice": {
+        "title": "Traduction du front-office",
+        "description": "Personnalisez les textes visibles par vos clients dans chaque langue disponible sur votre boutique."
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "blocks": {
+    "payment_kit_infos": {
+      "title": "Informations",
+      "description": "Les informations ci-dessous sont indispensables à la mise en production de votre compte PayGreen.",
+      "form": {
+        "public_key": "Identifiant unique"
+      }
+    }
+  }
+}

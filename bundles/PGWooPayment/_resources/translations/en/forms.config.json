@@ -1,0 +1,11 @@
+{
+  "forms":{
+    "config": {
+      "fields": {
+        "behavior_display_footer": {
+          "warning": "Depending on the theme installed, the PayGreen logo may not be displayed."
+        }
+      }
+    }
+  }
+}

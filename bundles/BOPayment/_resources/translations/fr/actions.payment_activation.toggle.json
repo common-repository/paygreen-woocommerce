@@ -1,0 +1,14 @@
+{
+  "actions": {
+    "payment_activation": {
+      "toggle": {
+        "result": {
+          "success": {
+            "enabled": "Les paiements avec PayGreen ont été activés avec succès.",
+            "disabled": "Les paiements PayGreen ont été désactivés avec succès."
+          }
+        }
+      }
+    }
+  }
+}

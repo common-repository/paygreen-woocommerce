@@ -1,0 +1,16 @@
+{
+  "forms": {
+    "settings_support": {
+      "fields": {
+        "detailed_logs": {
+          "label": "Activer les logs détaillés",
+          "help": "Les logs détaillés engendrent une importante occupation du disque. N'activez les logs détaillés qu'en cas de problème avec votre module et sur demande de notre support."
+        },
+        "behavior_iss": {
+          "label": "Activer l'accès distant au support PayGreen",
+          "help": "Si cette option est activée, le support PayGreen pourra analyser et corriger votre module à distance."
+        }
+      }
+    }
+  }   
+}
